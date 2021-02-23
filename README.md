@@ -6,12 +6,12 @@ So YOU have to do less writing and just need to Copy-Paste the data provided by 
 
 
 
-There are Multiple fields:
-Base Level - The Level which the Item has
-Difficulty - The Crafting Difficulty (Provided by Game)
-Durability - The Durability the Item has (Provided by Game)
-Id - The Item Id (Provided by https://eu.finalfantasyxiv.com/lodestone/playguide/db/)
-Real Level - The Real Item Level (Provided by http://www.garlandtools.org/db/)
-Max Quality - The Max Quality the Item can have (Provided by Game)
-Name - The Item Name (Provided by Name)
-Suggested Craftsmanship - The Craftsmanship that is suggested to have (Provided by Game)
+There are Multiple fields:\n
+Base Level - The Level which the Item has\n
+Difficulty - The Crafting Difficulty (Provided by Game)\n
+Durability - The Durability the Item has (Provided by Game)\n
+Id - The Item Id (Provided by https://eu.finalfantasyxiv.com/lodestone/playguide/db/)\n
+Real Level - The Real Item Level (Provided by http://www.garlandtools.org/db/)\n
+Max Quality - The Max Quality the Item can have (Provided by Game)\n
+Name - The Item Name (Provided by Name)\n
+Suggested Craftsmanship - The Craftsmanship that is suggested to have (Provided by Game)\n
