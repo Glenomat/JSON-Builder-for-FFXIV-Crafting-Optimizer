@@ -4,7 +4,7 @@ A Small programm for the FFXIV Crafting Optimizer.
 
 This Little Programm will create a JSON Statement to add to the https://github.com/doxxx/ffxiv-craft-opt-web/tree/master/app/data/recipedb Files.
 
-So YOU have to do less writing and just need to Copy-Paste the data provided by the Websites in the Correct fields.
+So you have to do less writing and just need to Copy-Paste the data provided by the Websites in the Correct fields.
 
 
 
